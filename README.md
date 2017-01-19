@@ -1,3 +1,3 @@
-# Awesome-iris
+# Awesome-Beego
 
 Currently Under Development
